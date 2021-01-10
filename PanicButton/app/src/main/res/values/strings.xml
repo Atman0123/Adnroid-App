@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Panic Button</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+</resources>
